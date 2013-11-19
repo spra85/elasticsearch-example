@@ -1,0 +1,44 @@
+blink:
+  title: Blink
+  author: malcolm
+  fiction: false
+  price:
+  latitude:
+  longitude:
+  published_at: 2007-04-03
+
+tipping_point:
+  title: The Tipping Point
+  author: malcolm
+  fiction: false
+  price:
+  latitude:
+  longitude:
+  published_at: 2006-11-01
+
+outliers:
+  title: Outliers
+  author: malcolm
+  fiction: false
+  price:
+  latitude:
+  longitude:
+  published_at:
+
+dog_saw:
+  title: What The Dog Saw
+  author: malcolm
+  fiction: false
+  price:
+  latitude:
+  longitude:
+  published_at:
+
+david_and_goliath:
+  title: David and Goliath
+  author: malcolm
+  fiction: false
+  price:
+  latitude:
+  longitude:
+  published_at:

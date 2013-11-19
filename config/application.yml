@@ -1,0 +1,17 @@
+defaults: &defaults
+  redis:
+    url: "redis://localhost"
+  tire:
+    url: "http://localhost:9200"
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+
+staging:
+  <<: *defaults
+
+production:
+  <<: *defaults
